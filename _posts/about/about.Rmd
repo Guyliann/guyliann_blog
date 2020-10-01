@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Guyliann Engels" 
+    url: "guyliann.be"
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
+Hey, ma name is Guyliann Engels.I am a research and teaching assistant at Numerical Ecology of Aquatic systems laboratory, University of Mons (UMONS). I spend my time between my thesis, guiding students through their master thesis and giving several practical exercises mainly in data science.
 
-- first name/surname, teacher’s name, class name and academic year
