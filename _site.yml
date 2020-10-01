@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/Guyliann/guyliann_blog
-base_url: http://Guyliann/guyliann_blog/
+base_url: http://Guyliann.github.io/guyliann_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
