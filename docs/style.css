@@ -1,27 +1,23 @@
 .distill-site-nav {
-  color: rgba(255, 255, 255, 0.8);
-  background-color: #268FD7;
-  font-size: 15px;
+  /*color: rgba(224, 169, 232, 0.8);*/
+  background-color: #1BBA36;
+  font-size: 20px;
   font-weight: 300;
 }
 
+.distill-site-nav a.title {
+  font-size: 25px;
+}
+
 .distill-site-nav a {
-  color: black;
+  color: darkblue;
   text-decoration: none;
 }
 
+
 .distill-site-nav a:hover {
-  color: black;
+  color: white;
 }
 
-.distill-site-header {
-}
 
-.distill-site-footer {
-}
 
-@media print {
-  .distill-site-nav {
-    display: none;
-  }
-}
